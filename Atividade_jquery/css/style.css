@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.nome, .e-mail, .celular{
+    padding: 30px;
+    font-family: helvetica, arial;
+}
